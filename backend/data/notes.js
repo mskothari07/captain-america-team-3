@@ -9,7 +9,7 @@ const notes = [
   {
     _id: "2",
     title: "Learned some Node JS",
-    content: "Om MC hai ",
+    content: "Om  ",
     category: "Learning",
   },
   {
